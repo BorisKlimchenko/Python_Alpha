@@ -1,4 +1,17 @@
-.venv/
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
-.ipynb_checkpoints/.venv/
+
+# Virtual Environments
+.venv/
+env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (optional, but good practice)
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
